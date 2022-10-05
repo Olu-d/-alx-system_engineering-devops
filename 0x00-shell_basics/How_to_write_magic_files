@@ -1,0 +1,3 @@
+1. Follow the format '0       string         =SCHOOL      School Data Type' where 0 is the offset to test for the data type, string is the type (I also used regex/c successfully), SCHOOL is the character format to search for in file types that would then be detected and printed as School Data Type by the 'file' command in the last step below.
+2. Compile it with 'file -C -m school.mgc' 
+3. Use 'file -m school.mgc *' to search for all filetypes in current directory, assuming that school.mgc is your magic file
