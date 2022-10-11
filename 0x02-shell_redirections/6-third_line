@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iacta | grep -5 | tail -1
+cat iacta | head -5 | tail -1
