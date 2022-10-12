@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "expVar = $expVar"
+echo "myVar = $myVar"
