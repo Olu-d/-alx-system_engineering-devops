@@ -1,1 +1,1 @@
-This is a ReadMe. Get in the habit of creating and maintaining them.
+This is a README. Get into the habit of writing and maintaining READMEs.
