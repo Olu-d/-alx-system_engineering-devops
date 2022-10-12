@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $(id -u -n)" #putting in $() indicates command substitution to BASH. It can also be done with backticks ``
+echo "Hello $USER"
